@@ -1,6 +1,11 @@
 body{
     margin: 0;
 }
+.b1{
+    background-image:url(bruno-kelzer-Dw6tBa20afk-unsplash-1024x683.jpg) ;
+                background-repeat: no-repeat;
+                background-size: cover;
+}
 .a1{
     background-color: rgba(0, 4, 14, 0.671);
     width: 100vw;
@@ -87,3 +92,56 @@ margin-top: 20px;
     margin-right: 50px;
 }
 
+.story3{
+    background-color: rgba(255, 255, 255, 0.726);
+    width: 100vw;
+    height: 400px;
+    
+}
+.text3{
+    text-align: center;
+    letter-spacing: 2px;
+    font-family:  'Bebas Neue';
+    margin-bottom: 5px;
+    margin-top: 35px;
+    font-size:36px ;
+
+}
+.underline3{
+    height: 0.5px;
+    background-color: black;
+    width: 60px;
+    margin: 0 auto;
+    position: relative;
+    top: 20%;
+}
+.content3{
+    display: flex;
+    padding-right: 100px;
+    padding-left: 150px;
+}
+
+.t3{
+    font-size: 20px;
+    font-family:'Bebas Neue';
+}
+.te3{
+    font-family: 'Poppins';
+    font-size: 10px;
+}
+.story{
+    width: 40%;
+}
+.img3 {
+    width: 50%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around
+}
+.block3 {
+    height: 222px;
+    width: 140px;
+    background-image: url(ed19f26d-a56e-4c80-b587-ef9d44ce1bc4-696x461-1.jpg);
+    font-family:'Bebas Neue';
+    margin-top: 10px;
+}
