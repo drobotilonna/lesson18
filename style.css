@@ -12,7 +12,7 @@ body{
     height: 100vh;
 }
 .logo1{
-width: 400px;
+
 height: 85px;
 display: flex;
 justify-content: flex-start;
@@ -41,6 +41,7 @@ margin-top: 20px;
     position: absolute;
     left: 25%;
     top: 40%;
+    width: 600;
     
 }
 .te{
